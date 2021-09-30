@@ -1,0 +1,15 @@
+.custom-story-card-2 {
+  display: felx;
+  flex-direction: column;
+  border-bottom: 1px solid #e6e6e6;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+.headline-type-2 {
+  color: #292929;
+  font-weight: 700;
+  line-height: 1.33;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
