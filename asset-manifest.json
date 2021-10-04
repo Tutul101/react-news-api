@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-news-api/static/css/main.e2f37349.chunk.css",
-    "main.js": "/react-news-api/static/js/main.61a4c27b.chunk.js",
-    "main.js.map": "/react-news-api/static/js/main.61a4c27b.chunk.js.map",
-    "runtime-main.js": "/react-news-api/static/js/runtime-main.3c64a3f0.js",
-    "runtime-main.js.map": "/react-news-api/static/js/runtime-main.3c64a3f0.js.map",
-    "static/js/2.adc50aca.chunk.js": "/react-news-api/static/js/2.adc50aca.chunk.js",
-    "static/js/2.adc50aca.chunk.js.map": "/react-news-api/static/js/2.adc50aca.chunk.js.map",
-    "static/js/3.973cfede.chunk.js": "/react-news-api/static/js/3.973cfede.chunk.js",
-    "static/js/3.973cfede.chunk.js.map": "/react-news-api/static/js/3.973cfede.chunk.js.map",
+    "main.css": "/react-news-api/static/css/main.5436c880.chunk.css",
+    "main.js": "/react-news-api/static/js/main.a602ed5d.chunk.js",
+    "main.js.map": "/react-news-api/static/js/main.a602ed5d.chunk.js.map",
+    "runtime-main.js": "/react-news-api/static/js/runtime-main.df1d5a62.js",
+    "runtime-main.js.map": "/react-news-api/static/js/runtime-main.df1d5a62.js.map",
+    "static/js/2.a54abbfe.chunk.js": "/react-news-api/static/js/2.a54abbfe.chunk.js",
+    "static/js/2.a54abbfe.chunk.js.map": "/react-news-api/static/js/2.a54abbfe.chunk.js.map",
+    "static/js/3.f05439b5.chunk.js": "/react-news-api/static/js/3.f05439b5.chunk.js",
+    "static/js/3.f05439b5.chunk.js.map": "/react-news-api/static/js/3.f05439b5.chunk.js.map",
     "index.html": "/react-news-api/index.html",
-    "static/css/main.e2f37349.chunk.css.map": "/react-news-api/static/css/main.e2f37349.chunk.css.map",
-    "static/js/2.adc50aca.chunk.js.LICENSE.txt": "/react-news-api/static/js/2.adc50aca.chunk.js.LICENSE.txt",
+    "static/css/main.5436c880.chunk.css.map": "/react-news-api/static/css/main.5436c880.chunk.css.map",
+    "static/js/2.a54abbfe.chunk.js.LICENSE.txt": "/react-news-api/static/js/2.a54abbfe.chunk.js.LICENSE.txt",
     "static/media/loading.7f686c03.gif": "/react-news-api/static/media/loading.7f686c03.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c64a3f0.js",
-    "static/js/2.adc50aca.chunk.js",
-    "static/css/main.e2f37349.chunk.css",
-    "static/js/main.61a4c27b.chunk.js"
+    "static/js/runtime-main.df1d5a62.js",
+    "static/js/2.a54abbfe.chunk.js",
+    "static/css/main.5436c880.chunk.css",
+    "static/js/main.a602ed5d.chunk.js"
   ]
 }
